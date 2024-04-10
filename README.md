@@ -5,7 +5,7 @@
 Este projeto de análise exploratória de dados visa examinar e entender melhor o crescimento do Amazon Prime Video ao longo dos anos. Utilizando um conjunto de dados que inclui informações sobre os títulos disponíveis na plataforma, como diretor, elenco, país de origem, data de adição, ano de lançamento, classificação, duração, categorias e descrição, realizaremos uma análise para identificar padrões e tendências ao longo do tempo.
 
 ## Organização do Projeto
-
+```
 meu_projeto/
 │
 ├── data/
@@ -20,6 +20,7 @@ meu_projeto/
 │   └── reports/          # Notebooks para geração de relatórios e visualizações
 │
 └── README.md              # Documentação do projeto
+```
 
 ## Dataset
 
